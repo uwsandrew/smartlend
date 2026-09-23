@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SmartLend - COMP10086 Artificial Intelligence Applications Project
 
 SmartLend is a fictional UK fintech company building a loan default prediction service.
@@ -130,3 +131,6 @@ The aim of the project is to build a **loan default prediction system for SmartL
 You will work through the different stages of the machine learning process, from understanding and preparing the data through to training and evaluating models.
 
 The project is also about how you build the system, not just the final model. Your code should be organised, testable, and reproducible, and you should be able to explain the decisions you make along the way.
+=======
+# smartlend
+>>>>>>> 200d49b8f97aa4d6ec50f55ea1faa53c530dfdfe
